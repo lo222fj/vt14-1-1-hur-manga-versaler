@@ -16,8 +16,8 @@ namespace _1_1_hur_manga_versaler.Model
                 if (Char.IsUpper(character))
                 {
                     nrOfCapitals += 1;
-                };
-            };
+                }
+            }
 
             return nrOfCapitals;
         }

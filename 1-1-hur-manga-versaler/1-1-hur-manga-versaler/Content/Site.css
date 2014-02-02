@@ -1,0 +1,22 @@
+﻿.aYellow {
+    text-decoration: none;
+    background-color: yellow;
+}
+#CountUppercase {
+    border: 0.3em outset #103089;
+    background-color: rgba(143, 24, 82, 0.79);
+    color: #fff;
+    font-weight: 700;
+    padding: 0.5em;
+    border-radius: 0.5em;
+}
+#Header {
+    color: rgba(143, 24, 82, 0.79);
+}
+#WriteHere {
+    border: 0.2em inset rgba(251, 248, 232, 0.92);
+    min-width: 20em;
+    min-height: 10em;
+    background-color:rgba(250, 236, 183, 0.87);
+    padding: 1em;
+}
